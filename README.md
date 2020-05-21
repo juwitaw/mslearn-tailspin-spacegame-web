@@ -1,3 +1,4 @@
+[![Build Status](https://juwitaw.visualstudio.com/MS-Cloud-Skills-Challenge/_apis/build/status/juwitaw.mslearn-tailspin-spacegame-web?branchName=master)](https://juwitaw.visualstudio.com/MS-Cloud-Skills-Challenge/_build/latest?definitionId=3&branchName=master)
 
 # Contributing
 
